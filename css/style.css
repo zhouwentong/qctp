@@ -134,16 +134,8 @@ body{background:url(../img/body.jpg) no-repeat center 33px #2A2A73;}
 .ma .b .fd{position:relative;}
 .ma .b span{position:absolute; right:5px; bottom:5px; background:url(../img/ma-fd.png) no-repeat; _background:url(../img/ma-fd.gif) no-repeat; display:block; width:26px; height:21px;}
 #f{background:#fff;}
-#b .r10{padding:6px 10px; border-bottom:1px solid #DBDBDB; margin-top:512px; background:#fff;}
-#b .r10 .c1 a{display:block; text-indent:-999em; height:37px; width:182px; background:url(../img/logo1.jpg) no-repeat;}
-#b .r10 .c2{margin-top:9px; margin-left:10px;}
-#b .r10 .c3{margin-top:9px; margin-left:150px;}
-#b .r10 .c3 a{margin:0 3px;}
-#b .r10 .c3 a:hover{color:#2C95E8;}
-#b .r10 .c4{position:relative; margin-top:2px; width:223px;}
-#b .r10 .c4 input{background:#F4F4F4; border:1px solid #E7E7E7; color:#989898; width:180px; height:24px; line-height:24px; margin-right:49px;}
-#b .r10 .c4 button{ background:#F6F6F6;border:1px solid #E7E7E7; color:#0072BC; width:50px; height:26px; position:absolute; right:0; top:0;}
-#b .r12{background:#fff; padding:15px; margin-bottom:15px;}
+#b .r12{background:#fff; padding:15px; margin-bottom:15px;  margin-top:512px;}
+#b .r11{margin-top:512px;}
 /*-------------------模块m1--------------------------*/
 .m1{padding:550px 35px 0 88px;}
 .m1 p{color:#FAFAFD;}
