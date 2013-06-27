@@ -171,9 +171,7 @@ body{background:url(../img/body.jpg) no-repeat center 33px #28286f;}
 .m6 .hr{right:15px; top:14px;}
 .m6 .hr a{background:url(../img/m6-a.png) no-repeat; width:42px; height:14px; display:block; text-indent:-999em;}
 .m6 .b{background:#FBFBFD; padding:20px 10px;}
-.m6 .bc1,
-.m6 .bc2{width:234px;}
-.m6 li{line-height:24px; height:24px;}
+.m6 li{line-height:24px; height:24px; width:49%;}
 .m6 li a{background:url(../img/m6-li.png) no-repeat 8px center; padding-left:20px;}
 /*-------------------模块m7--------------------------*/
 .m7 .h{background:url(../img/m7-h.png) no-repeat; height:43px; line-height:43px;}
