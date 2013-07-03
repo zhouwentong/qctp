@@ -126,10 +126,10 @@ body{background:url(../img/body.jpg) no-repeat center 33px #28286f;}
 .ma .b{background:#FBFBFD; padding:16px;}
 .ma .b p{line-height:20px; font-size:12px; color:#53575F;}
 .ma .br2{margin-top:15px;}
-.ma .l1 a{display:block; width:83px; height:33px; padding-top:10px;}
+.ma .l1 a{display:block; width:146px; height:45px; padding-top:5px; text-align:center;}
 .ma .l2{background:url(../img/ma-l2.png) no-repeat left 18px; padding-left:30px; display:inline-block; height:28px; line-height:28px; font-size:16px; font-style:italic; color:#FFE25B; font-family:"微软雅黑"; padding-top:18px; width:188px;}
 .ma .l3 a{display:block; background:url(../img/ma-l3.png) no-repeat; margin-top:18px; width:112px; height:28px; margin-right:56px; text-indent:-999em;}
-.ma .hr{right:70px; }
+.ma .hr{right:35px; }
 .ma .br2 li,
 .ma .b .fd{position:relative;}
 .ma .b span{position:absolute; right:5px; bottom:5px; background:url(../img/ma-fd.png) no-repeat; _background:url(../img/ma-fd.gif) no-repeat; display:block; width:26px; height:21px;}
@@ -191,7 +191,6 @@ body{background:url(../img/body.jpg) no-repeat center 33px #28286f;}
 /*-------------------模块m9--------------------------*/
 .m9{margin-bottom:15px;}
 /*-------------------模块m10--------------------------*/
-.m10 .l1 a{ height:38px; padding-top:8px;}
 .m10{margin-bottom:20px;}
 /*-------------------模块m11--------------------------*/
 .m11 .h{background:url(../img/m11-h.png) no-repeat; height:54px;}
